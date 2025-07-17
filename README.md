@@ -16,7 +16,4 @@ Ce projet a pour objectif de développer un **modèle de régression linéaire**
 - Sauvegarder le modèle avec `joblib`
 - Déployer une interface web simple pour tester la prédiction
 
----
-
-##  Structure du projet
 
