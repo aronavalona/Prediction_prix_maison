@@ -1,12 +1,12 @@
-# 💡 Projet ML – Prédiction du prix de maisons (Californie)
+# Projet ML – Prédiction du prix de maisons (Californie)
 
 Ce projet a pour objectif de développer un **modèle de régression linéaire** capable de prédire le **prix des maisons en Californie** à partir de données **démographiques** et **géographiques**.
 
-🧠 Il s'agit d'un **pipeline complet de machine learning** allant de l'exploration des données à la mise à disposition d'une **interface web interactive** via **Streamlit**.
+ Il s'agit d'un **pipeline complet de machine learning** allant de l'exploration des données à la mise à disposition d'une **interface web interactive** via **Streamlit**.
 
 ---
 
-## 📌 Objectifs du projet
+##  Objectifs du projet
 
 - Explorer et visualiser les données du jeu de données Californie
 - Identifier les corrélations clés influençant le prix des maisons
@@ -18,5 +18,5 @@ Ce projet a pour objectif de développer un **modèle de régression linéaire**
 
 ---
 
-## 🗂️ Structure du projet
+##  Structure du projet
 
